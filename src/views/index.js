@@ -1,4 +1,5 @@
 export * from './404View';
+export * from './BlogsView';
 export * from './InBuilding';
 export * from './ContactView';
 export * from './HomeView';
