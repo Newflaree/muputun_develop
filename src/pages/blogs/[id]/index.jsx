@@ -6,7 +6,9 @@ import { BlogView } from '@/views';
 
 const BlogPage = () => {
   return (
-    <MainLayout>
+    <MainLayout
+      pageTitle='Canales GNSS' 
+    >
       <BlogView />
     </MainLayout>
   );

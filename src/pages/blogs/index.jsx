@@ -6,7 +6,9 @@ import { BlogsView } from '@/views';
 
 const BlogsPage = () => {
   return (
-    <MainLayout>
+    <MainLayout
+      pageTitle='Blogs' 
+    >
       <BlogsView />
     </MainLayout>
   );
