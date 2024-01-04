@@ -1,3 +1,5 @@
+// Next.js
+import NextLink from 'next/link';
 // Material UI
 import {
   Box,
@@ -12,7 +14,12 @@ import {
 
 export const BlogCard = ({ title = '' }) => {
   return (
-    <Box sx={{ width: '100%'}} display='flex' alignItems='center' justifyContent='center'>
+    <Box
+      display='flex'
+      alignItems='center'
+      justifyContent='center'
+      sx={{ width: '100%'}}
+    >
       <Card sx={{ maxWidth: 500}}>
         <CardMedia
           sx={{ height: 140 }}
@@ -29,7 +36,24 @@ export const BlogCard = ({ title = '' }) => {
           </Typography>
         </CardContent>
         <CardActions sx={{ padding: 2 }}>
-          <Button size='medium' sx={{ color: 'white' }}>Leer más</Button>
+          <NextLink
+            href='blogs/canales-gnss'
+            passHref
+            legacyBehavior
+          >
+          <Button
+            size='medium'
+            sx={{
+              color: 'white',
+              fontSize: 18,
+              ':hover': {
+                backgroundColor: 'primary.dark'
+              }
+            }}
+          >
+              Leer más
+          </Button>
+          </NextLink>
         </CardActions>
       </Card>
     </Box>
