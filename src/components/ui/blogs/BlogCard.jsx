@@ -28,11 +28,10 @@ export const BlogCard = ({ title = '' }) => {
         />
         <CardContent sx={{ bgcolor: 'transparent' }}>
           <Typography gutterBottom variant="h5" component="div" color='primary' pb={1}>
-            Test Title
+            Canales GNSS: ¿Qué y por qué son tan relevantes?
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            En general, los satélites de geoposicionamiento GNSS emiten señales que constan de tres partes. Una señal portadora, uno o más códigos de ruido pseudoaleatorios (PRN) y un mensaje de navegación.
           </Typography>
         </CardContent>
         <CardActions sx={{ padding: 2 }}>

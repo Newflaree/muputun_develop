@@ -4,7 +4,7 @@ export const productsDB = [
     name: 'X5 PRO Linea para celulares',
     cate: 'gnss-x5',
     desc: 'El receptor de antena GNSS externo de alta precisión que funciona con tu smartphone o tableta Android o iOS. La solución perfecta para usuarios profesionales tanto principiantes como con experiencia en campo. Cuenta con un sistema de corrección NTRIP que recibe datos a través de Internet o Bluetooth. Tiene un indicador láser de punto rojo para facilitar el uso en levantamientos geodésicos.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700853359/demos/muputun/ov2as0kzogm8afuwlvnk.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388840/demos/muputun/products/X5%20PRO%20PARA%20CELULARES/jxlg4zjxvhodrq7m4nli.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700845176/demos/muputun/utmjhwxgxulgkzmkeshu.jpg',
     mainAdv: [
       {
@@ -100,11 +100,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://docs.mettatec.com/assets/images/products/X5MPro.png'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388840/demos/muputun/products/X5%20PRO%20PARA%20CELULARES/g4ko8jlj2g6oyh5aurcu.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/09/GNSS-X5Mobile-PRO-for-Smartphones-and-Tablets-RTK1.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388841/demos/muputun/products/X5%20PRO%20PARA%20CELULARES/r3tire5ugybn62zgmf3j.jpg'
       },
     ],
     price: '1.799.000',
@@ -121,7 +121,7 @@ export const productsDB = [
     name: 'X5 Linea para celulares',
     cate: 'gnss-x5',
     desc: 'El receptor de antena GNSS externo de alta precisión que funciona con tu smartphone o tableta Android o iOS. La solución perfecta para usuarios profesionales tanto principiantes como con experiencia en campo. Cuenta con un sistema de corrección NTRIP que recibe datos a través de Internet o Bluetooth. Tiene un indicador láser de punto rojo para facilitar el uso en levantamientos geodésicos.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700844442/demos/muputun/hlaebbbdp18aq4qair55.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388839/demos/muputun/products/X5%20LINEA%20PARA%20CELULARES/svut3ck06flovydzgvik.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700844647/demos/muputun/vylbh08gdcddhojlftxw.jpg',
     mainAdv: [
       {
@@ -217,11 +217,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://docs.mettatec.com/assets/images/products/X5M.png'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388837/demos/muputun/products/X5%20LINEA%20PARA%20CELULARES/lrjux1oco75xgiv2jjmv.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/09/PPKNTRIP-GNSS-X5Mobile-for-Smartphones-Components.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388838/demos/muputun/products/X5%20LINEA%20PARA%20CELULARES/joycijsjnbnpvt2813gn.jpg'
       },
     ],
     price: '1.399.000',
@@ -238,7 +238,7 @@ export const productsDB = [
     name: 'X5 Receptor GNSS Multibanda',
     cate: 'gnss-x5',
     desc: 'Estación base y Rover para soluciones fijas PPK, RTK y NTRIP. Con solo unos minutos de configuración, el X5R es uno de los métodos más rápidos para tomar mediciones de grado centimétrico. Funciona con software GIS común, incluyendo SW Maps, SurvPC, Field Genius y muchos otros.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700846956/demos/muputun/yzbqemhbqjaz6xyhy6kr.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388843/demos/muputun/products/X5%20Receptor%20GNSS%20Multibanda/hb0gcug0myj4abtwjd9d.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700847066/demos/muputun/t09tnjeti0yfj6pdjcmk.jpg',
     mainAdv: [
       {
@@ -324,11 +324,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://docs.mettatec.com/assets/images/products/X5R.png'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388843/demos/muputun/products/X5%20Receptor%20GNSS%20Multibanda/xpdomxug5uid73hymgpq.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/09/X5-Multi-band-GNSS-Receiver-PPK-RTK-NTRIP-POV-Down.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388843/demos/muputun/products/X5%20Receptor%20GNSS%20Multibanda/ludhxxlguqtvq3cjyul0.jpg'
       },
     ],
     price: '2.099.000',
@@ -345,7 +345,7 @@ export const productsDB = [
     name: 'X5 PPK Phantom 4 Pro',
     cate: 'gnss-x5',
     desc: 'El Módulo X5 PPK para Phantom 4 Pro es un sistema adaptador GNSS no intrusivo para conectarse a un Drone DJI Phantom 4 Pro v.1/v.2 o Advance (no incluido). Posicionamiento con precisión de centímetros en PPK. Para mapeo UAV preciso con menos GCPs. El módulo X5 PPK está listo para usar, y no se necesita configuración, puedes descargar los datos RAW de la tarjeta SD',
-    banner: 'https://mettatec.com/wp-content/uploads/2023/09/GNSS-X5-PPK-Module-for-Phantom-4-Pro-Advance-Implemented.webp',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388844/demos/muputun/products/X5%20PPK%20Phantom%204%20Pro/paw4eszykdhvd2fsxduj.jpg',
     bannerM: 'https://mettatec.com/wp-content/uploads/2023/09/GNSS-X5-PPK-Module-for-Phantom-4-Pro-Advance-Implemented.webp',
     mainAdv: [
       {
@@ -430,11 +430,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://docs.mettatec.com/assets/images/products/X5PPKP4P.png'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388842/demos/muputun/products/X5%20PPK%20Phantom%204%20Pro/aqdoxaeatlq8aehqebj9.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/09/GNSS-X5-PPK-Module-for-Phantom-4-Pro-Advance-each-parts.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388842/demos/muputun/products/X5%20PPK%20Phantom%204%20Pro/zk08ti8drdr0r4w2x7sv.jpg'
       },
     ],
     price: '1.499.000',
@@ -451,7 +451,7 @@ export const productsDB = [
     name: 'X5 PPK Mavic 2 Pro',
     cate: 'gnss-x5',
     desc: 'El Módulo X5 PPK para Mavic 2 Pro es un sistema adaptador GNSS no intrusivo para conectarse a un Drone DJI Mavic 2 Pro (no incluido). Posicionamiento con precisión de centímetros en PPK. Para mapeo UAV preciso con menos GCPs. El módulo X5 PPK está listo para usar, y no se necesita configuración, puedes descargar los datos RAW de la tarjeta SD o vía Wi-Fi',
-    banner: 'https://mettatec.com/wp-content/uploads/2023/09/GNSS-X5-PPK-Module-for-Mavic-2-Pro-Zoom-Referencial-Image.webp',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388839/demos/muputun/products/X5%20PPK%20Mavic%202%20Pro/ofayewvjigruhi96rsu5.jpg',
     bannerM: 'https://mettatec.com/wp-content/uploads/2023/09/GNSS-X5-PPK-Module-for-Mavic-2-Pro-Zoom-Referencial-Image.webp',
     mainAdv: [
       {
@@ -536,11 +536,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://docs.mettatec.com/assets/images/products/X5PPKM2P.png'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388839/demos/muputun/products/X5%20PPK%20Mavic%202%20Pro/gjzyogxlhbwhmm3nossa.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/09/GNSS-X5-PPK-Module-for-Phantom-4-Pro-Advance-each-parts.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388840/demos/muputun/products/X5%20PPK%20Mavic%202%20Pro/izv9y07fauxt7drjccs3.jpg'
       },
     ],
     price: '1.499.000',
@@ -557,7 +557,7 @@ export const productsDB = [
     name: 'X5 Radio LoRa',
     cate: 'gnss-x5',
     desc: 'Haz que tu X5R sea compatible con Trimble SPS855 y otras Estaciones Base GNSS a través de la comunicación LoRa. El radio X5 LoRa es un sistema adaptador que trabaja con una potencia de 1W para que tu Receptor X5 obtenga correcciones GNSS de cualquier Estación Base GNSS que use este protocolo.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700847360/demos/muputun/rktdvibao8fo6hczue4f.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388842/demos/muputun/products/X5%20Radio%20LoRa/spqqdvohahvbigr8mviq.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700847364/demos/muputun/b1fm4xxmfr0lqsshv2f4.jpg',
     mainAdv: [
       {
@@ -603,11 +603,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://docs.mettatec.com/assets/images/products/X5L.png'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388841/demos/muputun/products/X5%20Radio%20LoRa/robpohjoeyvofwlbldev.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/09/X5-LoRa-Radio-Compatible-with-TRIMBLE-SPS855.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388842/demos/muputun/products/X5%20Radio%20LoRa/v7yatul11drujcj8xzyu.jpg'
       },
     ],
     price: '485.000',
@@ -624,7 +624,7 @@ export const productsDB = [
     name: 'HeliX5 Antena',
     cate: 'gnss-x5',
     desc: 'El receptor de antena GNSS externo de alta precisión que funciona con tu smartphone o tableta Android o iOS. La solución perfecta para usuarios profesionales tanto principiantes como experimentados en campo, con correcciones RTK+PPK+NTRIP. Cuenta con un sistema de corrección NTRIP que recibe datos a través de Internet o Bluetooth y un sistema de corrección RTK que recibe datos a través de LoRa.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700847604/demos/muputun/pumwa1g9vfyrunztj93c.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388838/demos/muputun/products/HeliX5%20Antena/hldg6e8i8ncgsxvitpa3.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700847610/demos/muputun/hruhuyk5d0k5yivtspcj.jpg',
     mainAdv: [
       {
@@ -706,11 +706,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://mettatec.com/wp-content/uploads/2023/09/Multi-band-helical-GNSS-antenna-HeliX5.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388836/demos/muputun/products/HeliX5%20Antena/qwebmdcte5mh8ddmwuta.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/09/Multi-band-helical-GNSS-antenna-HeliX5-Drawing.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388835/demos/muputun/products/HeliX5%20Antena/hy51dzki7k0eflxp7qtz.jpg'
       },
     ],
     price: '0',
@@ -727,7 +727,7 @@ export const productsDB = [
     name: 'Aplicación SurPad 4.2 GNSS',
     cate: 'soft-se',
     desc: 'SurPad es una aplicación para Android diseñada para profesionales que utilizan receptores GPS/GNSS RTK y estaciones totales. Es especialmente útil para topógrafos, cartógrafos, ingenieros, arquitectos y planificadores urbanos. Cuenta con una amplia gama de herramientas y capacidades que permiten a los usuarios combinar eficientemente el control RTK, la recolección de datos GIS y la planificación de carreteras en una interfaz amigable para el usuario.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700847967/demos/muputun/ngtm60lyblzq6sazrrf3.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388836/demos/muputun/products/SurPad%204.2%20App/gvmnsqesd7m5upjdbtoi.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700847971/demos/muputun/xvfmkgolzrvxxo1jrlki.jpg',
     mainAdv: [
       {
@@ -757,11 +757,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/SURPAD-1000X1000.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388836/demos/muputun/products/SurPad%204.2%20App/axa2il8xewt6f90mcbli.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/SURPAD-1000X1000-2.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388837/demos/muputun/products/SurPad%204.2%20App/l4mfiqzvzweqzahs1434.jpg'
       },
     ],
     price: '269.000',
@@ -800,7 +800,7 @@ export const productsDB = [
     name: 'X5 Mobile PRO + SURPAD APP',
     cate: 'combos',
     desc: 'El X5 Mobile PRO + SURPAD APP combina el receptor de antena GNSS X5M Pro, optimizado para dispositivos Android e iOS, con la aplicación SurPad, diseñada para profesionales en topografía, cartografía, ingeniería y planificación urbana. Esta combinación ofrece un sistema completo para el control RTK, la recolección de datos GIS y la planificación de carreteras, integrando correcciones RTK+PPK+NTRIP con una interfaz amigable y herramientas avanzadas.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700852816/demos/muputun/eorxymstnksfzrc3bz9g.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388845/demos/muputun/products/X5Mobile%20PRO%20%2B%20SURPAD%20APP/o74er0e920vmfuvdngll.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700851629/demos/muputun/dnhccpnvzly6ezqgya5k.jpg',
     mainAdv: [
       {
@@ -848,11 +848,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/X5M-PRO-y-SURPAD-1000X1000.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388843/demos/muputun/products/X5Mobile%20PRO%20%2B%20SURPAD%20APP/iqtaszxocl14zyatufjp.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/X5M-PRO-2.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388844/demos/muputun/products/X5Mobile%20PRO%20%2B%20SURPAD%20APP/ybh7x19awpnf5gblicig.jpg'
       },
     ],
     price: '1.999.000',
@@ -873,7 +873,7 @@ export const productsDB = [
     name: 'X5 Mobile + SurPad App',
     cate: 'combos',
     desc: 'El X5 Mobile + SURPAD APP combina la funcionalidad avanzada del receptor de antena GNSS X5M, compatible con dispositivos Android e iOS, con la versatilidad de la aplicación SurPad, diseñada para profesionales en topografía, cartografía, ingeniería y planificación urbana. Este combo ofrece un sistema completo para el control RTK, la recolección de datos GIS y la planificación de carreteras, integrando correcciones NTRIP y RTK con una interfaz amigable y herramientas avanzadas.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700852618/demos/muputun/xvevtu1ligzratibeuek.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388839/demos/muputun/products/X5%20Mobile%20%2B%20SurPad%20App/gbzgbzrhpoqhyw86z6qd.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700851908/demos/muputun/ku6r1k7ravx2xywjqyqn.jpg',
     mainAdv: [
       {
@@ -923,11 +923,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/X5M-y-SURPAD-1000X1000.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388839/demos/muputun/products/X5%20Mobile%20%2B%20SurPad%20App/gtuzkserijyhqrkjg9zb.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/X5M-FEATURES.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388839/demos/muputun/products/X5%20Mobile%20%2B%20SurPad%20App/qmhq2ytvsvavzoo9dine.jpg'
       },
     ],
     price: '1.599.000',
@@ -948,7 +948,7 @@ export const productsDB = [
     name: 'GNSS Receptor X5 + SurPad App',
     cate: 'combos',
     desc: 'El combo GNSS Receptor X5 + SurPad App integra la avanzada tecnología del Receptor GNSS Multibanda X5 con la aplicación SurPad 4.2 para Android, ofreciendo una solución completa y eficiente para profesionales en topografía, cartografía, ingeniería y planificación urbana. Esta combinación es ideal para realizar mediciones de grado centimétrico y optimizar proyectos de campo.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700849508/demos/muputun/xqyaemkjkkzkkes30fba.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388835/demos/muputun/products/GNSS%20Receptor%20X5%20%2B%20SurPad%20App/uoyhvynidc7vgbippbd1.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700849511/demos/muputun/mxcgomhaqlqdopwmnrb9.jpg',
     mainAdv: [
       {
@@ -984,11 +984,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/X5-RECEIVER-y-SURPAD-1000X1000.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388835/demos/muputun/products/GNSS%20Receptor%20X5%20%2B%20SurPad%20App/xsljvgj8bveos8flc3b4.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/X5-RECEIVER-y-SURPAD-1000X1000.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388835/demos/muputun/products/GNSS%20Receptor%20X5%20%2B%20SurPad%20App/xsljvgj8bveos8flc3b4.jpg'
       },
     ],
     price: '2.299.000',
@@ -1009,7 +1009,7 @@ export const productsDB = [
     name: '2 Unidades X5 Receptor + SurPad App',
     cate: 'combos',
     desc: 'El combo GNSS Receptor X5 + SurPad App integra la avanzada tecnología del Receptor GNSS Multibanda X5 con la aplicación SurPad 4.2 para Android, ofreciendo una solución completa y eficiente para profesionales en topografía, cartografía, ingeniería y planificación urbana. Esta combinación es ideal para realizar mediciones de grado centimétrico y optimizar proyectos de campo.',
-    banner: 'https://res.cloudinary.com/newflare/image/upload/v1700849682/demos/muputun/fcxl4qbjxkdo44lcrgjv.jpg',
+    banner: 'https://res.cloudinary.com/newflare/image/upload/v1704388837/demos/muputun/products/2%20Unidades%20X5%20Receptor%20%2B%20SurPad%20App/flptq18lrxejouqf5lyt.jpg',
     bannerM: 'https://res.cloudinary.com/newflare/image/upload/v1700849685/demos/muputun/lpoc9hzmcynfjlg67lxx.jpg',
     mainAdv: [
       {
@@ -1045,11 +1045,11 @@ export const productsDB = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/X5-RECEIVER-2-UNITS-y-SURPAD-1000X1000.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388835/demos/muputun/products/2%20Unidades%20X5%20Receptor%20%2B%20SurPad%20App/xhgvxwzeczquk24dofp8.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://mettatec.com/wp-content/uploads/2023/10/X5-RECEIVER-2-UNITS-y-SURPAD-1000X1000.webp'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388835/demos/muputun/products/2%20Unidades%20X5%20Receptor%20%2B%20SurPad%20App/xhgvxwzeczquk24dofp8.jpg'
       },
     ],
     price: '4.149.000',
