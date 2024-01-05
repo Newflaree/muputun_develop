@@ -5,11 +5,11 @@ export const homeProdusts = [
     imgs: [
       { 
         name: 'img-1',
-        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388842/demos/muputun/products/X5%20PPK%20Phantom%204%20Pro/aqdoxaeatlq8aehqebj9.jpg'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704486670/demos/muputun/l8klq070cuwuuizojzq9.jpg'
       },
       { 
         name: 'img-2',
-        url: 'https://res.cloudinary.com/newflare/image/upload/v1704388842/demos/muputun/products/X5%20PPK%20Phantom%204%20Pro/zk08ti8drdr0r4w2x7sv.jpg'
+        url: 'https://res.cloudinary.com/newflare/image/upload/v1704486670/demos/muputun/l8klq070cuwuuizojzq9.jpg'
       },
     ],
     price: '1.499.000',
